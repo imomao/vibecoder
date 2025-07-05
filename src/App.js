@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { motion, useAnimation, useInView } from 'framer-motion';
+import { motion, useInView } from 'framer-motion';
 import { Github, Cpu, UserRound, Code, Crosshair, MapPin, MessageSquare } from 'lucide-react';
 
 // --- Custom Hooks ---
